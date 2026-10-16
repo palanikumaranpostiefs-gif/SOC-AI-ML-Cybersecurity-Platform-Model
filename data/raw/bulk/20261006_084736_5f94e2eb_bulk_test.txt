@@ -1,0 +1,5 @@
+timestamp,src_ip,dst_ip,src_port,dst_port,protocol,action
+2026-10-06 14:15:00,172.16.0.10,10.0.0.1,1234,443,TCP,ALLOW
+{"timestamp": "2026-10-06 14:15:01", "event_id": 4624, "hostname": "PC-05", "user": "john_doe"}
+{"timestamp": "2026-10-06 14:15:02", "service": "apache2", "hostname": "web-02", "message": "HTTP 500 Internal Error"}
+This is an unidentifiable random log entry with no clear security schema

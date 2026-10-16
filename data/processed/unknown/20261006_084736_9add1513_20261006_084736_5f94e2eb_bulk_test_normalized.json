@@ -1,0 +1,78 @@
+[
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": "timestamp,src_ip,dst_ip,src_port,dst_port,protocol,action",
+    "raw_data": {
+      "message": "timestamp,src_ip,dst_ip,src_port,dst_port,protocol,action"
+    }
+  },
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": "{\"timestamp\": \"2026-10-06 14:15:01\", \"event_id\": 4624, \"hostname\": \"PC-05\", \"user\": \"john_doe\"}",
+    "raw_data": {
+      "message": "{\"timestamp\": \"2026-10-06 14:15:01\", \"event_id\": 4624, \"hostname\": \"PC-05\", \"user\": \"john_doe\"}"
+    }
+  },
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": "{\"timestamp\": \"2026-10-06 14:15:02\", \"service\": \"apache2\", \"hostname\": \"web-02\", \"message\": \"HTTP 500 Internal Error\"}",
+    "raw_data": {
+      "message": "{\"timestamp\": \"2026-10-06 14:15:02\", \"service\": \"apache2\", \"hostname\": \"web-02\", \"message\": \"HTTP 500 Internal Error\"}"
+    }
+  },
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": "This is an unidentifiable random log entry with no clear security schema",
+    "raw_data": {
+      "message": "This is an unidentifiable random log entry with no clear security schema"
+    }
+  }
+]

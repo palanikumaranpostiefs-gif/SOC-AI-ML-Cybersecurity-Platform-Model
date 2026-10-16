@@ -1,0 +1,39 @@
+[
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": null,
+    "raw_data": {
+      "random_field": "foo_value",
+      "custom_code": 999
+    }
+  },
+  {
+    "event_id": null,
+    "timestamp": null,
+    "source": "unknown",
+    "source_ip": null,
+    "destination_ip": null,
+    "source_port": null,
+    "destination_port": null,
+    "protocol": null,
+    "user": null,
+    "hostname": null,
+    "action": null,
+    "event_type": null,
+    "severity": null,
+    "message": "Unrecognized raw string entry",
+    "raw_data": "Unrecognized raw string entry"
+  }
+]
