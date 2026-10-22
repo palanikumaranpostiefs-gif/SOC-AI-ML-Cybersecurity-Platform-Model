@@ -1,1 +1,1 @@
-# SOC-AI-ML-Cybersecurity-Platform-Model
+# SOC-AI-Security-Platform-Model
